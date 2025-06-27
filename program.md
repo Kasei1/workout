@@ -8,50 +8,50 @@
 
 ## Monday — Chest + Back
 
-| Exercise | Sets |
+| Exercise | Sets + Reps |
 |----------|:----:|
-| Parallel-bar dips **⇄ Superset** Pull-ups | 3 |
-| Incline DB chest press **⇄ Superset** Inverted rows | 3 |
-| Dumbbell curls | 2 + 1 *myo-rep* |
-| Lateral raises | 3 |
+| Parallel-bar dips **⇄ Superset** Pull-ups | 3 x 12 |
+| Incline DB chest press **⇄ Superset** Inverted rows | 3 x 15 |
+| Dumbbell curls | 2 x 12 + 1 *myo-rep* |
+| Lateral raises | 3 x 12 |
 
 ---
 
 ## Tuesday — Legs + Abs
 
-| Exercise | Sets |
+| Exercise | Sets & Reps |
 |----------|:----:|
-| Bulgarian split squats | 3 |
-| DB Romanian deadlifts | 3 |
-| Single-leg calf raises | 3 |
-| Hanging knee raises | 3 |
+| Bulgarian split squats | 3 x 12 |
+| DB Romanian deadlifts | 3 x 15 |
+| Single-leg calf raises | 3 x 25 |
+| Hanging knee raises | 3 x 12 |
 
 ---
 
 ## Thursday — Chest + Back
 
-| Exercise | Sets |
+| Exercise | Sets & Reps |
 |----------|:----:|
-| Incline DB chest press **⇄ Superset** Pull-ups | 3 |
-| Narrow push-ups **⇄ Superset** Inverted rows | 3 |
-| Dumbbell curls | 2 + 1 *myo-rep* |
-| Lateral raises | 3 |
+| Incline DB chest press **⇄ Superset** Pull-ups | 3 x (15 & 10) |
+| Narrow push-ups **⇄ Superset** Inverted rows | 3 x 12 |
+| Dumbbell curls | 2 x 12 + 1 *myo-rep* |
+| Lateral raises | 3 x 12 |
 
 ---
 
 ## Friday — Legs + Abs
 
-| Exercise | Sets |
+| Exercise | Sets & Reps |
 |----------|:----:|
-| Pistol squats | 3 |
-| DB Romanian deadlifts | 3 |
-| Single-leg calf raises | 3 |
-| Hanging knee raises | 3 |
+| Pistol squats | 3 x 10 |
+| DB Romanian deadlifts | 3 x 15 |
+| Single-leg calf raises | 3 x 25 |
+| Hanging knee raises | 3 x 12 |
 
 ---
 
 ## Saturday — Arm Finisher
 
-| Exercise | Sets |
+| Exercise | Sets & Reps |
 |----------|:----:|
-| Dumbbell curls | 3 |
+| Dumbbell curls | 3 x 15 |
