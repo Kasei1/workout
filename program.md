@@ -10,7 +10,7 @@
 
 | Exercise                                                  |       Sets       |
 | --------------------------------------------------------- | :--------------: |
-| Parallel-bar dips**⇄ Superset** Pull-ups           |        3        |
+| Parallel-bar dips **⇄ Superset** Pull-ups          |        3        |
 | Incline DB chest press**⇄ Superset** Inverted rows |        3        |
 | Dumbbell curls                                            | 2 + 1*myo-rep* |
 | Lateral raises                                            |        3        |
@@ -33,7 +33,7 @@
 | Exercise                                             |       Sets       |
 | ---------------------------------------------------- | :--------------: |
 | Incline DB chest press**⇄ Superset** Pull-ups |        3        |
-| Narrow push-ups**⇄ Superset** Inverted rows   |        3        |
+| Narrow push-ups **⇄ Superset** Inverted rows  |        3        |
 | Dumbbell curls                                       | 2 + 1*myo-rep* |
 | Lateral raises                                       |        3        |
 
